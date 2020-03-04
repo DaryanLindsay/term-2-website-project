@@ -70,13 +70,13 @@
 		
 		}
 		
-		tr:nth-child(even) {
-		background-color: #F0E184;
+		tr:nth-child(odd) {
+		background-color: #FF7C3B;
 		
 		}
 		
-		tr:nth-child(odd) {
-		background-color: #E60019;
+		tr:nth-child(even) {
+		background-color: #9350FB;
 		}
 		
 		th,td{
